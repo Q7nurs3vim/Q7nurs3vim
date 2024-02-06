@@ -3,10 +3,17 @@
  
   <img width="40%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=40&lines=Ricardo Quaresma is the best">  
 
- <br><br>
-  <samp> <br><img src="https://count.getloli.com/get/@:mQ7nurs3vim?theme=asoul">
+   <br><br>
+                         <samp> <br><img src="https://count.getloli.com/get/@:mQ7nurs3vim?theme=asoul">
    
-  </samp>
+   </samp>
 </p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Q7nurs3vim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Q7nurs3vim&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+
+
+
+
+
+
+
