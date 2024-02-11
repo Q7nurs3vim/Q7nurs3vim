@@ -11,7 +11,7 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Q7nurs3vim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Q7nurs3vim&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
-<img width="100%" align="https://i.pinimg.com/564x/0e/4d/5c/0e4d5c0444dad1037c35507a92544d00.jpg" alt="background">
+<img width="100%" align="center" src="https://i.pinimg.com/564x/e0/3c/4a/e03c4a44cc4bc020459425e54d913f67.jpg" alt="background">
 
 
 
